@@ -1,5 +1,7 @@
 # postcss-only-vars
 
+[![npm version](https://img.shields.io/npm/v/postcss-only-vars)](https://www.npmjs.com/package/postcss-only-vars)
+
 [PostCSS] plugin to only export CSS variable declarations.
 
 [postcss]: https://github.com/postcss/postcss
